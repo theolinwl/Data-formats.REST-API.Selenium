@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 5,
+      "name": "Data Science Handbook",
+      "category": "Books",
+      "value": 52.0,
+      "updated_at": "2025-04-01T08:45:00",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Desk Lamp",
+      "category": "Home",
+      "value": "19.99",
+      "updated_at": "2025-04-02T14:20:00",
+      "active": "true"
+    },
+    {
+      "id": 7,
+      "name": "Coffee Grinder",
+      "category": "Home",
+      "value": 32.0,
+      "updated_at": "2025-03-14T16:10:00",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Office Chair",
+      "category": "Home",
+      "value": 149,
+      "updated_at": 1743759000,
+      "active": 1
+    },
+    {
+      "id": 9,
+      "name": "Building Blocks Set",
+      "category": "toys",
+      "value": 27.99,
+      "updated_at": "2025-04-20T13:00:00",
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "Puzzle 1000",
+      "category": "Toys",
+      "value": "14.5",
+      "updated_at": "06.05.2025 15:40",
+      "active": true
+    }
+  ]
+}

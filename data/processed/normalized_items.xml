@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<items>
+  <item>
+    <id>1</id>
+    <name>laptop pro 14</name>
+    <category>electronics</category>
+    <value>1299.99</value>
+    <updated_at>2025-03-10 09:00:00</updated_at>
+    <active>True</active>
+  </item>
+  <item>
+    <id>2</id>
+    <name>wireless mouse</name>
+    <category>electronics</category>
+    <value>24.5</value>
+    <updated_at>2025-11-03 10:30:00</updated_at>
+    <active>True</active>
+  </item>
+  <item>
+    <id>3</id>
+    <name>usb-c hub</name>
+    <category>electronics</category>
+    <value>39.0</value>
+    <updated_at>2025-03-12 11:15:00</updated_at>
+    <active>False</active>
+  </item>
+  <item>
+    <id>4</id>
+    <name>python cookbook</name>
+    <category>books</category>
+    <value>45.9</value>
+    <updated_at>2025-03-13 12:00:00</updated_at>
+    <active>True</active>
+  </item>
+  <item>
+    <id>5</id>
+    <name>data science handbook</name>
+    <category>books</category>
+    <value>52.0</value>
+    <updated_at>2025-04-01 08:45:00</updated_at>
+    <active>True</active>
+  </item>
+  <item>
+    <id>6</id>
+    <name>desk lamp</name>
+    <category>home</category>
+    <value>19.99</value>
+    <updated_at>2025-04-02 14:20:00</updated_at>
+    <active>True</active>
+  </item>
+  <item>
+    <id>7</id>
+    <name>coffee grinder</name>
+    <category>home</category>
+    <value>32.0</value>
+    <updated_at>2025-03-14 16:10:00</updated_at>
+    <active>True</active>
+  </item>
+  <item>
+    <id>8</id>
+    <name>ghost item</name>
+    <category>books</category>
+    <value>5.0</value>
+    <updated_at>2025-01-01 00:00:00</updated_at>
+    <active>True</active>
+  </item>
+  <item>
+    <id>9</id>
+    <name>building blocks set</name>
+    <category>toys</category>
+    <value>29.99</value>
+    <updated_at>2025-05-05 13:00:00</updated_at>
+    <active>True</active>
+  </item>
+  <item>
+    <id>10</id>
+    <name>puzzle 1000</name>
+    <category>toys</category>
+    <value>14.5</value>
+    <updated_at>2025-06-05 15:40:00</updated_at>
+    <active>True</active>
+  </item>
+  <item>
+    <id>11</id>
+    <name>chess board</name>
+    <category>toys</category>
+    <value>22.0</value>
+    <updated_at>2025-05-07 10:05:00</updated_at>
+    <active>False</active>
+  </item>
+  <item>
+    <id>12</id>
+    <name>rc car</name>
+    <category>toys</category>
+    <value>59.9</value>
+    <updated_at>2025-08-05 17:25:00</updated_at>
+    <active>True</active>
+  </item>
+</items>

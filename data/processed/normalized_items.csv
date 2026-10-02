@@ -1,0 +1,13 @@
+id,name,category,value,updated_at,active
+1,laptop pro 14,electronics,1299.99,2025-03-10 09:00:00,True
+2,wireless mouse,electronics,24.5,2025-11-03 10:30:00,True
+3,usb-c hub,electronics,39.0,2025-03-12 11:15:00,False
+4,python cookbook,books,45.9,2025-03-13 12:00:00,True
+5,data science handbook,books,52.0,2025-04-01 08:45:00,True
+6,desk lamp,home,19.99,2025-04-02 14:20:00,True
+7,coffee grinder,home,32.0,2025-03-14 16:10:00,True
+8,ghost item,books,5.0,2025-01-01 00:00:00,True
+9,building blocks set,toys,29.99,2025-05-05 13:00:00,True
+10,puzzle 1000,toys,14.5,2025-06-05 15:40:00,True
+11,chess board,toys,22.0,2025-05-07 10:05:00,False
+12,rc car,toys,59.9,2025-08-05 17:25:00,True

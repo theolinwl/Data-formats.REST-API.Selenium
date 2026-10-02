@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<items>
+  <item>
+    <id>3</id>
+    <name>USB-C Hub</name>
+    <category>electronics</category>
+    <value />
+    <updated_at>2025-02-10T11:15:00</updated_at>
+    <active>true</active>
+  </item>
+  <item>
+    <id>9</id>
+    <name>Building Blocks Set</name>
+    <category>Toys</category>
+    <value>29.99</value>
+    <updated_at>2025-05-05 13:00</updated_at>
+    <active>true</active>
+  </item>
+  <item>
+    <id>10</id>
+    <name>Puzzle 1000</name>
+    <category>Toys</category>
+    <value>14.50</value>
+    <updated_at>2025-05-06T15:40:00</updated_at>
+    <active>1</active>
+  </item>
+  <item>
+    <id>11</id>
+    <name>Chess Board</name>
+    <category>Toys</category>
+    <value>22.0</value>
+    <updated_at>2025/05/07 10:05</updated_at>
+    <active>false</active>
+  </item>
+  <item>
+    <id>12</id>
+    <name>RC Car</name>
+    <category>Toys</category>
+    <value>59,9</value>
+    <updated_at>08.05.2025 17:25</updated_at>
+    <active>yes</active>
+  </item>
+</items>

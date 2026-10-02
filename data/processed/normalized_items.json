@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"laptop pro 14",
+        "category":"electronics",
+        "value":1299.99,
+        "updated_at":"2025-03-10T09:00:00",
+        "active":true
+    },
+    {
+        "id":2,
+        "name":"wireless mouse",
+        "category":"electronics",
+        "value":24.5,
+        "updated_at":"2025-11-03T10:30:00",
+        "active":true
+    },
+    {
+        "id":3,
+        "name":"usb-c hub",
+        "category":"electronics",
+        "value":39.0,
+        "updated_at":"2025-03-12T11:15:00",
+        "active":false
+    },
+    {
+        "id":4,
+        "name":"python cookbook",
+        "category":"books",
+        "value":45.9,
+        "updated_at":"2025-03-13T12:00:00",
+        "active":true
+    },
+    {
+        "id":5,
+        "name":"data science handbook",
+        "category":"books",
+        "value":52.0,
+        "updated_at":"2025-04-01T08:45:00",
+        "active":true
+    },
+    {
+        "id":6,
+        "name":"desk lamp",
+        "category":"home",
+        "value":19.99,
+        "updated_at":"2025-04-02T14:20:00",
+        "active":true
+    },
+    {
+        "id":7,
+        "name":"coffee grinder",
+        "category":"home",
+        "value":32.0,
+        "updated_at":"2025-03-14T16:10:00",
+        "active":true
+    },
+    {
+        "id":8,
+        "name":"ghost item",
+        "category":"books",
+        "value":5.0,
+        "updated_at":"2025-01-01T00:00:00",
+        "active":true
+    },
+    {
+        "id":9,
+        "name":"building blocks set",
+        "category":"toys",
+        "value":29.99,
+        "updated_at":"2025-05-05T13:00:00",
+        "active":true
+    },
+    {
+        "id":10,
+        "name":"puzzle 1000",
+        "category":"toys",
+        "value":14.5,
+        "updated_at":"2025-06-05T15:40:00",
+        "active":true
+    },
+    {
+        "id":11,
+        "name":"chess board",
+        "category":"toys",
+        "value":22.0,
+        "updated_at":"2025-05-07T10:05:00",
+        "active":false
+    },
+    {
+        "id":12,
+        "name":"rc car",
+        "category":"toys",
+        "value":59.9,
+        "updated_at":"2025-08-05T17:25:00",
+        "active":true
+    }
+]

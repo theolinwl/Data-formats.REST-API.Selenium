@@ -1,0 +1,10 @@
+id,name,category,value,updated_at,active
+1,Laptop Pro 14,Electronics,"1299,99",2025-03-10T09:00:00,yes
+2, Wireless Mouse,electronics ,24.5,11.03.2025 10:30,1
+2,Wireless Mouse,ELECTRONICS,24.50,2025-03-11 10:30:00,TRUE
+3,USB-C Hub,Electronics,39.0,2025/03/12 11:15,no
+4,Python Cookbook,Books,45.9,2025-03-13T12:00:00,true
+5,Data Science Handbook,books,49.0,2025-03-20T08:45:00,true
+6,Desk lamp,Home,19.99,2025-04-02 14:20:00,yes
+,Coffee Grinder,Home,34.75,2025-04-03 16:10:00,нет
+8,Ghost Item,Books,5.0,2025-01-01,yes
